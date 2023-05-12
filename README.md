@@ -16,11 +16,11 @@ Como escopo do projeto 2 de Tecweb o tema escolhido foi fazer uma copia do layou
 - Tem um destataque no qual a cada vez que a página é atualizada ele troca o filme
 - No destaque existe um botão de curti onde ele guarda na API todos os filmes curtidos no destaque
 
-[![Watch the video](imagem-readme/image.png)](https://www.youtube.com/watch?v=s_Rc1inYwRk)
+[![Watch the video](imagem-readme/image2.png)](https://www.youtube.com/watch?v=s_Rc1inYwRk)
 
 - A quarta e última funcionalidade, quando você clica nos filmes da categoria ele mostra o trailer do respectivo filme, essa funcionalidade foi possivel atraves da utilização de uma sub-biblioteca do React js, o ReactPlayer.
 
-[![Watch the video](imagem-readme/image.png)](https://www.youtube.com/watch?v=7LH5MW7JFns)
+[![Watch the video](imagem-readme/image3.png)](https://www.youtube.com/watch?v=7LH5MW7JFns)
 
 
 # Observação não foi possivel fazer o deploy, pois o Railway não deixa carregar o backend. Mas segue em anexo o link para o git, onde você verá os commits onde eu tentei fazer o deploy. 
