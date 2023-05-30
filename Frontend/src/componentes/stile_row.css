@@ -1,0 +1,38 @@
+.container {
+    margin-left: 28px;
+    color : whitesmoke
+}
+
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+}
+
+.cards::-webkit-scrollbar{
+    display: none;
+}
+
+.movie {
+    object-fit: contain;
+    width: 100%;
+    max-width: 100px;
+    margin-bottom: 10px;
+    transition: transform 450ms;
+}
+
+
+.movie_grande {
+    object-fit: contain;
+    width: 100%;
+    max-height: 250px;
+    margin-bottom: 20px;
+    transition: transform 450ms;
+}
+
+.movie:hover {
+    transform: scale(1.09);
+}
